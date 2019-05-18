@@ -1,0 +1,59 @@
+baseURL = "https://santa-sukitoku.github.io/santa-log/"
+title = "santa-log"
+author = "santa_sukitoku"
+theme = "ezhil"
+canonifyurls = true
+paginate = 3
+publishDir = "docs"
+hasCJKLanguage = true
+languageCode = "ja-jp"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "localhost"
+
+[params]
+	subtitle = "Daily Log"
+	# Number of posts to show in recent posts list.
+	recentPostsCount = 10
+	# Content types which are excluded from recent posts and archive page.
+	excludedTypes = ["page"]
+	disableDisqusTypes = ["page"]
+	featherIconsCDN = true
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "https://santa-sukitoku.github.io/"
+weight = 2
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/santa-sukitoku"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/santa_sukitoku"
+
+[taxonomies]
+   tag = "tags"
+
