@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>santa-log</title>
+    <link>https://santa-sukitoku.github.io/santa-log/</link>
+    <description>Recent content on santa-log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 18 May 2019 12:26:04 +0900</lastBuildDate>
+    
+	<atom:link href="https://santa-sukitoku.github.io/santa-log/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, world!</title>
+      <link>https://santa-sukitoku.github.io/santa-log/posts/firstpost/</link>
+      <pubDate>Sat, 18 May 2019 12:26:04 +0900</pubDate>
+      
+      <guid>https://santa-sukitoku.github.io/santa-log/posts/firstpost/</guid>
+      <description>github pagesとHugoでlogを書くことにしました．</description>
+    </item>
+    
+  </channel>
+</rss>
