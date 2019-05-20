@@ -4,7 +4,7 @@ date: 2019-05-19T13:46:19+09:00
 draft: false
 ---
 
-こんにちは，[santa](https://twitter.com/santa_sukitoku)です．
+こんにちは，[Santa](https://twitter.com/santa_sukitoku)です．
 
 5/19に東京ディズニーシーに行ってきました．ちなみに初めて．
 
