@@ -2,6 +2,7 @@
 title: "東京ディズニーシーにいった話"
 date: 2019-05-19T13:46:19+09:00
 draft: false
+tags: Daily
 ---
 
 こんにちは，[Santa](https://twitter.com/santa_sukitoku)です．
