@@ -45,14 +45,19 @@ url = "/tags"
 weight = 4
 
 [[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/santa-sukitoku"
+name = "About"
+icon = "about"
+url = "https://santa-sukitoku.github.io/"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/santa_sukitoku"
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/santa-sukitoku"
 
 [taxonomies]
    tag = "tags"
