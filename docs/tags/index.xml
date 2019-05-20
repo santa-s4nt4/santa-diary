@@ -6,7 +6,7 @@
     <description>Recent content in Tags on santa-log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 19 May 2019 13:46:19 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 22:18:09 +0900</lastBuildDate>
     
 	<atom:link href="https://santa-sukitoku.github.io/santa-log/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Daily</title>
       <link>https://santa-sukitoku.github.io/santa-log/tags/daily/</link>
-      <pubDate>Sun, 19 May 2019 13:46:19 +0900</pubDate>
+      <pubDate>Mon, 20 May 2019 22:18:09 +0900</pubDate>
       
       <guid>https://santa-sukitoku.github.io/santa-log/tags/daily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://santa-sukitoku.github.io/santa-log/tags/game/</link>
+      <pubDate>Mon, 20 May 2019 22:18:09 +0900</pubDate>
+      
+      <guid>https://santa-sukitoku.github.io/santa-log/tags/game/</guid>
       <description></description>
     </item>
     
