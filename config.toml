@@ -46,7 +46,7 @@ weight = 4
 
 [[params.social]]
 name = "About"
-icon = "about"
+icon = "link"
 url = "https://santa-sukitoku.github.io/"
 
 [[params.social]]
