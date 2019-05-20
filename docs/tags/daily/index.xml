@@ -20,5 +20,23 @@
       <description>こんにちは，Santaです． 5/19に東京ディズニーシーに行ってきました．ちなみに初めて． 対戦よろしくお願いします💪 pic.twitter.com/XseeMToHRM &amp;mdash; Santa (@santa_sukitoku) May 19, 2019 まぁ絶叫系</description>
     </item>
     
+    <item>
+      <title>Hello, world!</title>
+      <link>https://santa-sukitoku.github.io/santa-log/posts/firstpost/</link>
+      <pubDate>Sat, 18 May 2019 12:26:04 +0900</pubDate>
+      
+      <guid>https://santa-sukitoku.github.io/santa-log/posts/firstpost/</guid>
+      <description>今まではwordpressを使ってきましたが，これからはgithub pagesとHugoを使ってlogを書きたいと思います．</description>
+    </item>
+    
+    <item>
+      <title>2019年抱負の話</title>
+      <link>https://santa-sukitoku.github.io/santa-log/posts/2019_aspiration/</link>
+      <pubDate>Tue, 01 Jan 2019 17:36:59 +0900</pubDate>
+      
+      <guid>https://santa-sukitoku.github.io/santa-log/posts/2019_aspiration/</guid>
+      <description>こんにちは，Santaです． 今回は，自分の2019年の抱負を語りたいと思います． ちなみに上の写真は志賀高原までスキーをしに行ったときに撮った</description>
+    </item>
+    
   </channel>
 </rss>

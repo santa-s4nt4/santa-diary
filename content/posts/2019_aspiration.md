@@ -2,6 +2,7 @@
 title: "2019年抱負の話"
 date: 2019-01-01T17:36:59+09:00
 draft: false
+tags: ["Daily"]
 ---
 
 <a href='https://photos.google.com/share/AF1QipP_tlWLe3-Mrg1edgiq1xoh4ez2vmmoJawRdnuzvAuS3jvCz_6NWlqMgQjxGV9UTw?key=cEVFWDQ4QmpVRHlWWEI0WUFkb2w2MnhGa18xWDR3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/7oSynJ6m3WrDY9WR7a5GsIpo8mdKYX5LQBrYgE0q8K3bw_go7vPMYNs_QWXXLarm9Yfi94KbgszuoM82_9HpWc7lVAB9fQYjhzMtebsrOjRwK_QHd-7MYV6_t7_X67xmJfx0ooJukBk=w2400' /></a>
