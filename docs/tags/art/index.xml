@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art on santa-log</title>
+    <link>https://santa-sukitoku.github.io/santa-log/tags/art/</link>
+    <description>Recent content in Art on santa-log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 22 May 2019 19:27:20 +0900</lastBuildDate>
+    
+	<atom:link href="https://santa-sukitoku.github.io/santa-log/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>六本木アートナイト2019の話</title>
+      <link>https://santa-sukitoku.github.io/santa-log/posts/roppongiartnight/</link>
+      <pubDate>Wed, 22 May 2019 19:27:20 +0900</pubDate>
+      
+      <guid>https://santa-sukitoku.github.io/santa-log/posts/roppongiartnight/</guid>
+      <description>こんにちは，Santaです． 2019年5月25日に六本木アートナイトに行ってきました．上の写真は，六本木ヒルズから撮った東京タワーです． 所感</description>
+    </item>
+    
+  </channel>
+</rss>
