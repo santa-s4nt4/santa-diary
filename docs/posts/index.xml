@@ -101,5 +101,14 @@
       <description>こんにちは，Santaです． 今回は，自分の2019年の抱負を語りたいと思います． ちなみに上の写真は志賀高原までスキーをしに行ったときに撮った</description>
     </item>
     
+    <item>
+      <title>Windowsの環境構築の話</title>
+      <link>https://santa-sukitoku.github.io/santa-log/posts/windows_development/</link>
+      <pubDate>Tue, 20 Nov 2018 03:29:03 +0900</pubDate>
+      
+      <guid>https://santa-sukitoku.github.io/santa-log/posts/windows_development/</guid>
+      <description>こんにちは，Santaです． 先日，大学合格祝いにRazer Blade 15を購入したので，自分がどのような環境構築をしたのか記したいと思います(Win</description>
+    </item>
+    
   </channel>
 </rss>

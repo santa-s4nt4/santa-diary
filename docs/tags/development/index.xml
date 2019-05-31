@@ -20,5 +20,14 @@
       <description>こんにちは，Santaです． 先日，GitHub Pagesでwebサイトを制作したのですが，そのサイト構築にSCSSを用いようとしたらHTML</description>
     </item>
     
+    <item>
+      <title>Windowsの環境構築の話</title>
+      <link>https://santa-sukitoku.github.io/santa-log/posts/windows_development/</link>
+      <pubDate>Tue, 20 Nov 2018 03:29:03 +0900</pubDate>
+      
+      <guid>https://santa-sukitoku.github.io/santa-log/posts/windows_development/</guid>
+      <description>こんにちは，Santaです． 先日，大学合格祝いにRazer Blade 15を購入したので，自分がどのような環境構築をしたのか記したいと思います(Win</description>
+    </item>
+    
   </channel>
 </rss>
