@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>WindowsでSASSを使う話 - santa-log</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="WindowsでSASSを使う話" />
+<meta property="og:description" content="こんにちは，Santaです． 先日，GitHub Pagesでwebサイトを制作したのですが，そのサイト構築にSCSSを用いようとしたらHTML" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://santa-sukitoku.github.io/santa-log/posts/sass/" />
+<meta property="article:published_time" content="2019-06-01T03:17:12&#43;09:00"/>
+<meta property="article:modified_time" content="2019-06-01T03:17:12&#43;09:00"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="WindowsでSASSを使う話"/>
+<meta name="twitter:description" content="こんにちは，Santaです． 先日，GitHub Pagesでwebサイトを制作したのですが，そのサイト構築にSCSSを用いようとしたらHTML"/>
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:500,100,300" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" media="screen" href="https://santa-sukitoku.github.io/santa-log/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://santa-sukitoku.github.io/santa-log/css/main.css" /><script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script><script src="https://santa-sukitoku.github.io/santa-log/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper post">
+		<div class="header">
+	<h1 class="site-title">santa-log</h1>
+	<div class="site-description"><h2>Daily Log</h2><nav class="nav social">
+			<ul class="flat"><a href="https://santa-sukitoku.github.io/" title="About"><i data-feather="link"></i></a><a href="https://twitter.com/santa_sukitoku" title="Twitter"><i data-feather="twitter"></i></a><a href="https://github.com/santa-sukitoku" title="Github"><i data-feather="github"></i></a></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="https://santa-sukitoku.github.io/santa-log/">Home</a>
+			</li>
+			
+			<li>
+				<a href="https://santa-sukitoku.github.io/">About</a>
+			</li>
+			
+			<li>
+				<a href="https://santa-sukitoku.github.io/santa-log/posts">All posts</a>
+			</li>
+			
+			<li>
+				<a href="https://santa-sukitoku.github.io/santa-log/tags">Tags</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post-header">
+			<h1 class="title">WindowsでSASSを使う話</h1>
+			<div class="meta">Posted at &mdash; Jun 1, 2019</div>
+		</div>
+
+		<div class="markdown">
+			
+
+<p>こんにちは，<a href="https://twitter.com/santa_sukitoku">Santa</a>です．</p>
+
+<p>先日，GitHub Pagesでwebサイトを制作したのですが，そのサイト構築にSCSSを用いようとしたらHTMLでSCSSファイルを読み込めず，詰まったのでその対処法をメモしておきたいと思います．</p>
+
+<h3 id="何がいけなかったのか">何がいけなかったのか</h3>
+
+<p>SCSSが読み込めなかった理由は単純明快で，RubyがWindowsにインストールされてなかっただけでした．</p>
+
+<h3 id="対処法">対処法</h3>
+
+<p>まずはRubyインストーラーを<a href="https://www.ruby-lang.org/ja/">公式サイト</a>からダウンロードしてRubyをインストールしましょう．</p>
+
+<p>次に，コマンドプロンプトを起動して，ruby -vを実行して下記のように表示されていればRubyのインストールは完了です．</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">$ ruby -v
+ruby 2.5.3p105 (2018-10-18 revision 65156) [x64-mingw32]</pre></div>
+<p>次に，gemというパッケージを使えるようにします．
+gem -vを実行してgemを確認してください</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">$ gem -v
+2.7.8</pre></div>
+<p>日本語を使うとエンコーディングの問題でエラーが出るので，環境変数LANGの指定を「UTF-8」に変更しておきます．</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">$ set LANG=ja_JP.UTF-8</pre></div>
+<p>gem update –systemを実行してgemを最新の状態にします．</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">$ gem update --system</pre></div>
+<p>念のために，もう一度gem -vを実行してバージョンを確認してください．</p>
+
+<p>次に，gem install sassでSassをインストールしてください</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">$ gem install sass</pre></div>
+<p>gem update sassでSassを最新の状態にしてください．</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">$ gem update sass</pre></div>
+<p>sass -vでSassのバージョンを確認してください．</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">$ sass -v</pre></div>
+<p>これで，WindowsでSassを書くことができるようになりました．</p>
+
+<h3 id="sass-cssにコンパイル">SASS→CSSにコンパイル</h3>
+
+<p>SassファイルをCSSファイルとして読み込ませるために，SassファイルをCSSファイルにコンパイルする必要があります．</p>
+
+<p>Sass(SCSS)ファイルが存在するディレクトリにコマンドプロンプトで移動し，
+&ldquo;sass –watch ○○.scss:○○.css –style compressed&rdquo;を実行すれば，ファイルの状況を監視し，更新されたら圧縮されたCSSファイルを生成してくれるようになります．</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">$ sass --watch ○○.scss:○○.css --style compressed</pre></div>
+<h3 id="まとめ">まとめ</h3>
+
+<p>やはりWindowsは開発環境を整えるのが面倒ですね&hellip;</p>
+
+		</div>
+</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div><a href="https://github.com/vividvilla/ezhil">Ezhil theme</a> | Built with <a href="gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+</body>
+</html>

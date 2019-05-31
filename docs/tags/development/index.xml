@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on santa-log</title>
+    <link>https://santa-sukitoku.github.io/santa-log/tags/development/</link>
+    <description>Recent content in Development on santa-log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 01 Jun 2019 03:17:12 +0900</lastBuildDate>
+    
+	<atom:link href="https://santa-sukitoku.github.io/santa-log/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WindowsでSASSを使う話</title>
+      <link>https://santa-sukitoku.github.io/santa-log/posts/sass/</link>
+      <pubDate>Sat, 01 Jun 2019 03:17:12 +0900</pubDate>
+      
+      <guid>https://santa-sukitoku.github.io/santa-log/posts/sass/</guid>
+      <description>こんにちは，Santaです． 先日，GitHub Pagesでwebサイトを制作したのですが，そのサイト構築にSCSSを用いようとしたらHTML</description>
+    </item>
+    
+  </channel>
+</rss>

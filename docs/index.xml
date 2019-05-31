@@ -6,10 +6,19 @@
     <description>Recent content on santa-log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 22 May 2019 19:27:20 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 03:17:12 +0900</lastBuildDate>
     
 	<atom:link href="https://santa-sukitoku.github.io/santa-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WindowsでSASSを使う話</title>
+      <link>https://santa-sukitoku.github.io/santa-log/posts/sass/</link>
+      <pubDate>Sat, 01 Jun 2019 03:17:12 +0900</pubDate>
+      
+      <guid>https://santa-sukitoku.github.io/santa-log/posts/sass/</guid>
+      <description>こんにちは，Santaです． 先日，GitHub Pagesでwebサイトを制作したのですが，そのサイト構築にSCSSを用いようとしたらHTML</description>
+    </item>
     
     <item>
       <title>六本木アートナイト2019の話</title>
