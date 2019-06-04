@@ -1,5 +1,5 @@
 ---
-title: "Sourrce Cord Vol.3でVJをした話"
+title: "Source Cord Vol.3でVJをした話"
 date: 2019-06-03T20:57:14+09:00
 draft: false
 tags: ["Development", "Art"]
