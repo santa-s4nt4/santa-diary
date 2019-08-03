@@ -3,20 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://santa-sukitoku.github.io/santa-log/posts/</loc>
-    <lastmod>2019-06-17T18:33:29+09:00</lastmod>
+    <loc>https://santa-sukitoku.github.io/santa-log/tags/daily/</loc>
+    <lastmod>2019-08-04T05:15:21+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://santa-sukitoku.github.io/santa-log/posts/</loc>
+    <lastmod>2019-08-04T05:15:21+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://santa-sukitoku.github.io/santa-log/tags/</loc>
+    <lastmod>2019-08-04T05:15:21+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://santa-sukitoku.github.io/santa-log/</loc>
+    <lastmod>2019-08-04T05:15:21+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://santa-sukitoku.github.io/santa-log/posts/spring_2019/</loc>
+    <lastmod>2019-08-04T05:15:21+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://santa-sukitoku.github.io/santa-log/posts/xmusicdjnight/</loc>
     <lastmod>2019-06-17T18:33:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://santa-sukitoku.github.io/santa-log/</loc>
-    <lastmod>2019-06-17T18:33:29+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -37,20 +54,8 @@
   </url>
   
   <url>
-    <loc>https://santa-sukitoku.github.io/santa-log/tags/</loc>
-    <lastmod>2019-06-03T20:57:14+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://santa-sukitoku.github.io/santa-log/posts/19/</loc>
     <lastmod>2019-06-02T23:18:36+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://santa-sukitoku.github.io/santa-log/tags/daily/</loc>
-    <lastmod>2019-06-02T23:18:36+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
