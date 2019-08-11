@@ -6,7 +6,8 @@ canonifyurls = true
 paginate = 3
 publishDir = "docs"
 hasCJKLanguage = true
-languageCode = "ja-jp"
+DefaultContentLanguage = "ja"
+languageCode = "ja-JP"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
