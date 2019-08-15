@@ -17,7 +17,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "localhost"
 
 [params]
-	subtitle = "Daily Log"
+	subtitle = "Diary"
 	# Number of posts to show in recent posts list.
 	recentPostsCount = 10
 	# Content types which are excluded from recent posts and archive page.
@@ -37,7 +37,7 @@ weight = 2
 
 [[menu.main]]
 name = "Portfolio"
-url = "https://santa-sukitoku.github.io/santa-Portfolio/"
+url = "https://santa-sukitoku.github.io/santa-portfolio/"
 weight = 3
 
 [[menu.main]]
@@ -62,7 +62,7 @@ url = "https://github.com/santa-sukitoku"
 
 [[params.social]]
 name = "SoundCloud"
-icon = "soundcloud"
+icon = "volume-2"
 url = "https://soundcloud.com/santa-n"
 
 [taxonomies]
