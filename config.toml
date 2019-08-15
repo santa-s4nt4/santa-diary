@@ -36,19 +36,19 @@ url = "https://santa-sukitoku.github.io/"
 weight = 2
 
 [[menu.main]]
+name = "Portfolio"
+url = "https://santa-sukitoku.github.io/"
+weight = 3
+
+[[menu.main]]
 name = "All posts"
 url = "/posts"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 4
-
-[[params.social]]
-name = "About"
-icon = "link"
-url = "https://santa-sukitoku.github.io/"
+weight = 5
 
 [[params.social]]
 name = "Twitter"
@@ -59,6 +59,11 @@ url = "https://twitter.com/santa_sukitoku"
 name = "Github"
 icon = "github"
 url = "https://github.com/santa-sukitoku"
+
+[[params.social]]
+name = "SoundCloud"
+icon = "soundcloud"
+url = "https://soundcloud.com/santa-n"
 
 [taxonomies]
    tag = "tags"
