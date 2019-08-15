@@ -37,7 +37,7 @@ weight = 2
 
 [[menu.main]]
 name = "Portfolio"
-url = "https://santa-sukitoku.github.io/"
+url = "https://santa-sukitoku.github.io/santa-Portfolio/"
 weight = 3
 
 [[menu.main]]
