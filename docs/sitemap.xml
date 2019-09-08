@@ -3,6 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://santa-sukitoku.github.io/santa-diary/tags/daily/</loc>
+    <lastmod>2019-09-09T03:03:53+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://santa-sukitoku.github.io/santa-diary/posts/</loc>
+    <lastmod>2019-09-09T03:03:53+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://santa-sukitoku.github.io/santa-diary/tags/</loc>
+    <lastmod>2019-09-09T03:03:53+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://santa-sukitoku.github.io/santa-diary/</loc>
+    <lastmod>2019-09-09T03:03:53+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://santa-sukitoku.github.io/santa-diary/posts/190909/</loc>
+    <lastmod>2019-09-09T03:03:53+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://santa-sukitoku.github.io/santa-diary/tags/development/</loc>
     <lastmod>2019-08-16T06:16:11+09:00</lastmod>
     <priority>0</priority>
@@ -11,30 +40,6 @@
   <url>
     <loc>https://santa-sukitoku.github.io/santa-diary/posts/mft2019/</loc>
     <lastmod>2019-08-16T06:16:11+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://santa-sukitoku.github.io/santa-diary/posts/</loc>
-    <lastmod>2019-08-16T06:16:11+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://santa-sukitoku.github.io/santa-diary/tags/</loc>
-    <lastmod>2019-08-16T06:16:11+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://santa-sukitoku.github.io/santa-diary/</loc>
-    <lastmod>2019-08-16T06:16:11+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://santa-sukitoku.github.io/santa-diary/tags/daily/</loc>
-    <lastmod>2019-08-16T05:15:53+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
