@@ -18,7 +18,7 @@
         padding-left: 1.5%;
         background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
         background-size: 600% 600%;
-        animation: gradientBG 7.5s ease infinite;
+        animation: gradientBG 4s ease infinite;
 }
 
 a {
@@ -41,14 +41,14 @@ a {
         color: #ffffff;
         background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
         background-size: 600% 600%;
-        animation: gradientBG 7.5s ease infinite;
+        animation: gradientBG 4s ease infinite;
 }
 
 .subtitle.tags.is-6.is-pulled-right a:hover {
         color: #ffffff;
         background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
         background-size: 600% 600%;
-        animation: gradientBG 7.5s ease infinite;
+        animation: gradientBG 4s ease infinite;
         text-decoration: none;
 }
 
@@ -61,14 +61,14 @@ a {
         color: #ffffff;
         background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
         background-size: 600% 600%;
-        animation: gradientBG 7.5s ease infinite;
+        animation: gradientBG 4s ease infinite;
 }
 
 .button:hover {
         color: #ffffff;
         background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
         background-size: 600% 600%;
-        animation: gradientBG 7.5s ease infinite;
+        animation: gradientBG 4s ease infinite;
 }
 
 .button.is-link {
@@ -97,7 +97,7 @@ a {
         color: #ffffff;
         background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
         background-size: 600% 600%;
-        animation: gradientBG 7.5s ease infinite;
+        animation: gradientBG 4s ease infinite;
         text-decoration: none;
         border-bottom: 0px;
 }
