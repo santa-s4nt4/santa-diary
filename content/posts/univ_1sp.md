@@ -5,7 +5,7 @@ draft: false
 tags: ["Daily"]
 ---
 
-<a href=''><img src='https://lh3.googleusercontent.com/9JLRquV8qlaSVgexTMTabCWH-PJy1tieVC9dl31xrhU4r9NJTiHkkIGVKw2dyf7EnMuEbC2Ianxmk82db2n-l_08rkSeeEkTotkp8COmSWCFJk6WbtZCjyZA6WvWbbC4uMfG1gx7J-c=w2400' /></a>
+<img src='https://lh3.googleusercontent.com/9JLRquV8qlaSVgexTMTabCWH-PJy1tieVC9dl31xrhU4r9NJTiHkkIGVKw2dyf7EnMuEbC2Ianxmk82db2n-l_08rkSeeEkTotkp8COmSWCFJk6WbtZCjyZA6WvWbbC4uMfG1gx7J-c=w2400' />
 
 先日，[Qosmo](http://qosmo.jp)の[徳井直生](http://naotokui.net)さんが2019年度からSFCで設立したCCLabの最終発表会を終えて，大学に進学してから初めての夏休みを迎えました．
 

@@ -5,7 +5,7 @@ draft: false
 tags: ["Daily", "Art"]
 ---
 
-<a href='https://photos.google.com/share/AF1QipOVG6gS3yVSpGx1vYl69wYbQVpH95AgWx26vv-K2Q-O4lYEl0zE4rXfc8KQzbfQ7w?key=a3VKdzhvNktuV0xBYzlnSGlNMmJDZGJ5TDc4UlpB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/q7RfGQK-udu1Wndrfx0R0GHJqQ3-uwraF5cBZbN_uIJZnt-izYjSHNl5bkoLq-bEBXcS4dCilvf0p44D1g1aDWtK019HQ5EGc5BrT7Kwle58W0aDXxjGICWbRt-dcGWI9IS6w9iw3vw=w2400' /></a>
+<img src='https://lh3.googleusercontent.com/q7RfGQK-udu1Wndrfx0R0GHJqQ3-uwraF5cBZbN_uIJZnt-izYjSHNl5bkoLq-bEBXcS4dCilvf0p44D1g1aDWtK019HQ5EGc5BrT7Kwle58W0aDXxjGICWbRt-dcGWI9IS6w9iw3vw=w2400' />
 
 こんにちは，[Santa](https://twitter.com/santa_sukitoku)です．
 
@@ -15,11 +15,11 @@ tags: ["Daily", "Art"]
 
 SFCの教授である脇田さんが展示していた"脇田玲 × AIBA × 瀬戸勝之「under the sea」"が特に良かったです．
 
-<a href='https://photos.google.com/share/AF1QipNMxHrR_0_3TIO4wkfEu6g1fTHcXM3ZAzEA74xgSmgONXdqaPOg3gJ-85qRuNNCZA?key=UW5zdzgzRVdEa2d2SF9vT1JZTnhrZzBUSE9WeC1B&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/-7IU4VaYD-hoTXvP4BrhORyuTFk22HhO0xWKRlLTzyIkopSpGQvNJ5Vs2KdIPGfULLQl2z0vmJTVHYiSt3Ul2c6h5MxCdc2YWSmIthozLiXZ_cinkIdU7ifN6i22-e_B4oQsiQMtM0I=w2400' /></a>
+<img src='https://lh3.googleusercontent.com/-7IU4VaYD-hoTXvP4BrhORyuTFk22HhO0xWKRlLTzyIkopSpGQvNJ5Vs2KdIPGfULLQl2z0vmJTVHYiSt3Ul2c6h5MxCdc2YWSmIthozLiXZ_cinkIdU7ifN6i22-e_B4oQsiQMtM0I=w2400' />
 
-<a href='https://photos.google.com/share/AF1QipM5uNvKaZo-ix1k-VseFdAy8TJuu5iGDuPgNuhtVm4MspH3RyN-lI9XGQb42E-Opw?key=bGpqNWhGdDhJSHBCTFBOdW4ydWtXU0g5YlRTVU9n&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/eH0Z6G13ADh_QsLTYnoMTRxsfwNUe7P6EK_CtsHooV4k_m2cGUZBUy4vAClYbJF7V2xVAP4wwj4c7_IQjp3Lm0vjMnOY62c9hhaqEeh-xOEcXsz6LYi_WPkowdqdyOROvyfUTQO5tXg=w2400' /></a>
+<img src='https://lh3.googleusercontent.com/eH0Z6G13ADh_QsLTYnoMTRxsfwNUe7P6EK_CtsHooV4k_m2cGUZBUy4vAClYbJF7V2xVAP4wwj4c7_IQjp3Lm0vjMnOY62c9hhaqEeh-xOEcXsz6LYi_WPkowdqdyOROvyfUTQO5tXg=w2400' />
 
-<a href='https://photos.google.com/share/AF1QipM3ZknNQpyZXJvQCdFfDiPa3t3ZfS7ZqX5byWi5BrmpTJOSMjnGUYuc3RcS9rtScA?key=aTFiS25qSm9CcC1CX2tNNVdhS3Y1VGxvZHNtV2N3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/qaqxEe-oCbgNhc3K0rgfDbcHnqgq632xEyygI-9Y7Gl37OclBeeAfYXWaXMpS7KvG8acNPLHkBYw2vaZCoejuqcCY2ZzTK6wFe6D2emKrWFKUYwBGKQBfUd6aoARm3gxbbqv-3P09tM=w2400' /></a>
+<img src='https://lh3.googleusercontent.com/qaqxEe-oCbgNhc3K0rgfDbcHnqgq632xEyygI-9Y7Gl37OclBeeAfYXWaXMpS7KvG8acNPLHkBYw2vaZCoejuqcCY2ZzTK6wFe6D2emKrWFKUYwBGKQBfUd6aoARm3gxbbqv-3P09tM=w2400' />
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ほんとにすごい<br>opencvで顔認識してるのか疑うぐらいレーザーきついw <a href="https://t.co/2as31v4sDM">pic.twitter.com/2as31v4sDM</a></p>&mdash; Santa (@santa_sukitoku) <a href="https://twitter.com/santa_sukitoku/status/1132249924626669569?ref_src=twsrc%5Etfw">May 25, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

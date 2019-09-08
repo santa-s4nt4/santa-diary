@@ -5,7 +5,7 @@ draft: false
 tags: ["Development", "Art"]
 ---
 
-<a href='https://photos.google.com/share/AF1QipOWCkx9y6HRgeKgC-8vx7vgYbmJRipLWsa2YLlGbqvPuP3sG-e1jOblSVy0bpyDYw?key=ajhFRDJuVTNwYTFYRnpaSVBOSUExSU5OUEtJY2tn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/yc06SRfTwW4d9P-onGslFLKWMRiTwPMd8rlyQ8LdRJxuzu4Jm_GsKHdz_uXXJNMiKilFKWwmuVbP9xnHBa6oryQEP1iL3f7O6eGok1MVqK_ehNAt594uy5aN3_Iw_GUH16YONQ-mml8=w2400' /></a>
+<img src='https://lh3.googleusercontent.com/yc06SRfTwW4d9P-onGslFLKWMRiTwPMd8rlyQ8LdRJxuzu4Jm_GsKHdz_uXXJNMiKilFKWwmuVbP9xnHBa6oryQEP1iL3f7O6eGok1MVqK_ehNAt594uy5aN3_Iw_GUH16YONQ-mml8=w2400' />
 
 2019年6月2日に[神楽音](https://kagurane.com/schedules/#kagurane)で[Sourrce Cord Vol.3](https://kagurane.com/schedules/view/1156)のVJを担当しました．
 
