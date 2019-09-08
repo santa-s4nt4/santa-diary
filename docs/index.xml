@@ -1,172 +1,172 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>santa-diary</title>
-    <link>https://santa-sukitoku.github.io/</link>
+    <link>https://santa-sukitoku.github.io/santa-diary/</link>
     <description>Recent content on santa-diary</description>
     <generator>Hugo - gohugo.io</generator>
     <language>ja</language>
     <contact></contact>
     <copyright>&copy; <a href="https://github.com/ribice">Emir Ribic</a> 2017</copyright>
     
-        <atom:link href="https://santa-sukitoku.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://santa-sukitoku.github.io/santa-diary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Maker Faire Tokyo 2019に行った</title>
-      <link>https://santa-sukitoku.github.io/posts/mft2019/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/mft2019/</link>
       <pubDate>Fri, 16 Aug 2019 06:16:11 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/mft2019/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/mft2019/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ですます調をやめる</title>
-      <link>https://santa-sukitoku.github.io/posts/desumasu/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/desumasu/</link>
       <pubDate>Fri, 16 Aug 2019 05:15:53 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/desumasu/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/desumasu/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>大学1年生の春学期を終えた話</title>
-      <link>https://santa-sukitoku.github.io/posts/univ_1sp/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/univ_1sp/</link>
       <pubDate>Sun, 04 Aug 2019 05:15:21 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/univ_1sp/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/univ_1sp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>X-Music DJ Nightの話</title>
-      <link>https://santa-sukitoku.github.io/posts/xmusicdjnight/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/xmusicdjnight/</link>
       <pubDate>Mon, 17 Jun 2019 18:33:29 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/xmusicdjnight/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/xmusicdjnight/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Source Cord Vol.3でVJをした話</title>
-      <link>https://santa-sukitoku.github.io/posts/sourcecord_3/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/sourcecord_3/</link>
       <pubDate>Mon, 03 Jun 2019 20:57:14 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/sourcecord_3/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/sourcecord_3/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>19歳になった話</title>
-      <link>https://santa-sukitoku.github.io/posts/19/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/19/</link>
       <pubDate>Sun, 02 Jun 2019 23:18:36 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/19/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/19/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>WindowsでSASSを使う話</title>
-      <link>https://santa-sukitoku.github.io/posts/sass/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/sass/</link>
       <pubDate>Sat, 01 Jun 2019 03:17:12 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/sass/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/sass/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>六本木アートナイト2019の話</title>
-      <link>https://santa-sukitoku.github.io/posts/roppongiartnight/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/roppongiartnight/</link>
       <pubDate>Wed, 22 May 2019 19:27:20 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/roppongiartnight/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/roppongiartnight/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>大学に入学して1ヶ月の所感</title>
-      <link>https://santa-sukitoku.github.io/posts/univ_1/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/univ_1/</link>
       <pubDate>Wed, 22 May 2019 19:27:20 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/univ_1/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/univ_1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Factorioを始めた話</title>
-      <link>https://santa-sukitoku.github.io/posts/factorio_1/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/factorio_1/</link>
       <pubDate>Mon, 20 May 2019 22:18:09 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/factorio_1/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/factorio_1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>東京ディズニーシーにいった話</title>
-      <link>https://santa-sukitoku.github.io/posts/disny/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/disny/</link>
       <pubDate>Sun, 19 May 2019 13:46:19 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/disny/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/disny/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hello, world!</title>
-      <link>https://santa-sukitoku.github.io/posts/firstpost/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/firstpost/</link>
       <pubDate>Sat, 18 May 2019 12:26:04 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/firstpost/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/firstpost/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>大学に入学した話</title>
-      <link>https://santa-sukitoku.github.io/posts/enter/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/enter/</link>
       <pubDate>Mon, 01 Apr 2019 18:22:45 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/enter/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/enter/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>神奈川県に引っ越した話</title>
-      <link>https://santa-sukitoku.github.io/posts/hikkoshi/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/hikkoshi/</link>
       <pubDate>Mon, 25 Mar 2019 03:09:12 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/hikkoshi/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/hikkoshi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>2019年抱負の話</title>
-      <link>https://santa-sukitoku.github.io/posts/2019_aspiration/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/2019_aspiration/</link>
       <pubDate>Tue, 01 Jan 2019 17:36:59 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/2019_aspiration/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/2019_aspiration/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Windowsの環境構築の話</title>
-      <link>https://santa-sukitoku.github.io/posts/windows_development/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/windows_development/</link>
       <pubDate>Tue, 20 Nov 2018 03:29:03 +0900</pubDate>
       <author></author>
-      <guid>https://santa-sukitoku.github.io/posts/windows_development/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/windows_development/</guid>
       <description></description>
       
     </item>

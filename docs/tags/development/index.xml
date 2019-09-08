@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on santa-diary</title>
-    <link>https://santa-sukitoku.github.io/tags/development/</link>
+    <link>https://santa-sukitoku.github.io/santa-diary/tags/development/</link>
     <description>Recent content in Development on santa-diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
     <lastBuildDate>Fri, 16 Aug 2019 06:16:11 +0900</lastBuildDate>
     
-	<atom:link href="https://santa-sukitoku.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://santa-sukitoku.github.io/santa-diary/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Maker Faire Tokyo 2019に行った</title>
-      <link>https://santa-sukitoku.github.io/posts/mft2019/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/mft2019/</link>
       <pubDate>Fri, 16 Aug 2019 06:16:11 +0900</pubDate>
       
-      <guid>https://santa-sukitoku.github.io/posts/mft2019/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/mft2019/</guid>
       <description>8/4にMaker Faire Tokyo 2019に行ってきた．去年までは大阪に住んでいたのでなかなか行けず，2019年が初参戦． 関東住みの恩恵💪 pic.twitter.com/oI8T7bFnQm &amp;mdash; Santa (@santa_sukitoku) August 4, 2019</description>
     </item>
     
     <item>
       <title>Source Cord Vol.3でVJをした話</title>
-      <link>https://santa-sukitoku.github.io/posts/sourcecord_3/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/sourcecord_3/</link>
       <pubDate>Mon, 03 Jun 2019 20:57:14 +0900</pubDate>
       
-      <guid>https://santa-sukitoku.github.io/posts/sourcecord_3/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/sourcecord_3/</guid>
       <description>2019年6月2日に神楽音でSourrce Cord Vol.3のVJを担当しました． その時のことを記したいと思います． Source Cord Vol.3とは &amp;ldquo;SOURCE CORD&amp;</description>
     </item>
     
     <item>
       <title>WindowsでSASSを使う話</title>
-      <link>https://santa-sukitoku.github.io/posts/sass/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/sass/</link>
       <pubDate>Sat, 01 Jun 2019 03:17:12 +0900</pubDate>
       
-      <guid>https://santa-sukitoku.github.io/posts/sass/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/sass/</guid>
       <description>こんにちは，Santaです． 先日，GitHub Pagesでwebサイトを制作したのですが，そのサイト構築にSCSSを用いようとしたらHTML</description>
     </item>
     
     <item>
       <title>Windowsの環境構築の話</title>
-      <link>https://santa-sukitoku.github.io/posts/windows_development/</link>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/windows_development/</link>
       <pubDate>Tue, 20 Nov 2018 03:29:03 +0900</pubDate>
       
-      <guid>https://santa-sukitoku.github.io/posts/windows_development/</guid>
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/windows_development/</guid>
       <description>こんにちは，Santaです． 先日，大学合格祝いにRazer Blade 15を購入したので，自分がどのような環境構築をしたのか記したいと思います(Win</description>
     </item>
     
