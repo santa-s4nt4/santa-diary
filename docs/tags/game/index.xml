@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Game on santa-log</title>
-    <link>https://santa-sukitoku.github.io/santa-log/tags/game/</link>
-    <description>Recent content in Game on santa-log</description>
+    <title>Game on santa-diary</title>
+    <link>https://santa-sukitoku.github.io/tags/game/</link>
+    <description>Recent content in Game on santa-diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
     <lastBuildDate>Mon, 20 May 2019 22:18:09 +0900</lastBuildDate>
     
-	<atom:link href="https://santa-sukitoku.github.io/santa-log/tags/game/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://santa-sukitoku.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Factorioを始めた話</title>
-      <link>https://santa-sukitoku.github.io/santa-log/posts/factorio_1/</link>
+      <link>https://santa-sukitoku.github.io/posts/factorio_1/</link>
       <pubDate>Mon, 20 May 2019 22:18:09 +0900</pubDate>
       
-      <guid>https://santa-sukitoku.github.io/santa-log/posts/factorio_1/</guid>
+      <guid>https://santa-sukitoku.github.io/posts/factorio_1/</guid>
       <description>Santaです． 最近，Factorioを始めました． factorioを始めました pic.twitter.com/jxigNr9HU3 &amp;mdash; Santa (@santa_sukitoku) May 18, 2019 Factorioとは 『Factorio』(ファ</description>
     </item>
     

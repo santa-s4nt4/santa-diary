@@ -5,7 +5,7 @@ hugo new posts/test.md
 ```
 
 ```
-hugo server --theme=ezhil --buildDrafts --watch
+hugo server --theme=kiss --buildDrafts --watch
 ```
 
 ```
