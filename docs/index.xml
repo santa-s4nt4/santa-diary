@@ -1,158 +1,174 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>santa-log</title>
     <link>https://santa-sukitoku.github.io/santa-log/</link>
     <description>Recent content on santa-log</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-JP</language>
-    <lastBuildDate>Fri, 16 Aug 2019 06:16:11 +0900</lastBuildDate>
+    <generator>Hugo - gohugo.io</generator>
+    <language>ja</language>
+    <contact></contact>
+    <copyright>&copy; <a href="https://github.com/ribice">Emir Ribic</a> 2017</copyright>
     
-	<atom:link href="https://santa-sukitoku.github.io/santa-log/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://santa-sukitoku.github.io/santa-log/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Maker Faire Tokyo 2019に行った</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/mft2019/</link>
       <pubDate>Fri, 16 Aug 2019 06:16:11 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/mft2019/</guid>
-      <description>8/4にMaker Faire Tokyo 2019に行ってきた．去年までは大阪に住んでいたのでなかなか行けず，2019年が初参戦． 関東住みの恩恵💪 pic.twitter.com/oI8T7bFnQm &amp;mdash; Santa (@santa_sukitoku) August 4, 2019</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>ですます調をやめる</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/desumasu/</link>
       <pubDate>Fri, 16 Aug 2019 05:15:53 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/desumasu/</guid>
-      <description>突然だが，ですます調で日記を書くのをやめることにした． そもそも自分のことを書き記すだけなのに丁寧に書く必要はあるんだろうか&amp;hellip;で</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>大学1年生の春学期を終えた話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/univ_1sp/</link>
       <pubDate>Sun, 04 Aug 2019 05:15:21 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/univ_1sp/</guid>
-      <description>先日，Qosmoの徳井直生さんが2019年度からSFCで設立したCCLabの最終発表会を終えて，大学に進学してから初めての夏休みを迎えました</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>X-Music DJ Nightの話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/xmusicdjnight/</link>
       <pubDate>Mon, 17 Jun 2019 18:33:29 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/xmusicdjnight/</guid>
-      <description>X-Music DJ Night from santa on Vimeo. Santaです． 2019年6月1日に，SFCのζ館で行われた&amp;rdquo;X-Music DJ Night&amp;rdquo;で前半のVJ</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>Source Cord Vol.3でVJをした話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/sourcecord_3/</link>
       <pubDate>Mon, 03 Jun 2019 20:57:14 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/sourcecord_3/</guid>
-      <description>2019年6月2日に神楽音でSourrce Cord Vol.3のVJを担当しました． その時のことを記したいと思います． Source Cord Vol.3とは &amp;ldquo;SOURCE CORD&amp;</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>19歳になった話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/19/</link>
       <pubDate>Sun, 02 Jun 2019 23:18:36 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/19/</guid>
-      <description>どうも，Santaです． 2019年6月2日に19歳になりました．👏 これからもやっていき💪していくので見てくれよな! Amazonの欲しいものリ</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>WindowsでSASSを使う話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/sass/</link>
       <pubDate>Sat, 01 Jun 2019 03:17:12 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/sass/</guid>
-      <description>こんにちは，Santaです． 先日，GitHub Pagesでwebサイトを制作したのですが，そのサイト構築にSCSSを用いようとしたらHTML</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>六本木アートナイト2019の話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/roppongiartnight/</link>
       <pubDate>Wed, 22 May 2019 19:27:20 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/roppongiartnight/</guid>
-      <description>こんにちは，Santaです． 2019年5月25日に六本木アートナイトに行ってきました．上の写真は，六本木ヒルズから撮った東京タワーです． 所感</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>大学に入学して1ヶ月の所感</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/univ_1/</link>
       <pubDate>Wed, 22 May 2019 19:27:20 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/univ_1/</guid>
-      <description>大学に入学して1ヶ月が経ちました．時が過ぎるのは早いものですね… 今回は大学に入学してから1ヶ月経った所感を記したいと思います． 大学生活 研究会</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>Factorioを始めた話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/factorio_1/</link>
       <pubDate>Mon, 20 May 2019 22:18:09 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/factorio_1/</guid>
-      <description>Santaです． 最近，Factorioを始めました． factorioを始めました pic.twitter.com/jxigNr9HU3 &amp;mdash; Santa (@santa_sukitoku) May 18, 2019 Factorioとは 『Factorio』(ファ</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>東京ディズニーシーにいった話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/disny/</link>
       <pubDate>Sun, 19 May 2019 13:46:19 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/disny/</guid>
-      <description>こんにちは，Santaです． 5/19に東京ディズニーシーに行ってきました．ちなみに初めて． 対戦よろしくお願いします💪 pic.twitter.com/XseeMToHRM &amp;mdash; Santa (@santa_sukitoku) May 19, 2019 まぁ絶叫系</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>Hello, world!</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/firstpost/</link>
       <pubDate>Sat, 18 May 2019 12:26:04 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/firstpost/</guid>
-      <description>今まではwordpressを使ってきましたが，これからはgithub pagesとHugoを使ってlogを書きたいと思います．</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>大学に入学した話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/enter/</link>
       <pubDate>Mon, 01 Apr 2019 18:22:45 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/enter/</guid>
-      <description>Santaです．上の写真は家の近くの桜です． 2019年4月1日に慶應義塾大学環境情報学部(SFC)に入学しました． 慶應義塾大学環境情報学部に</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>神奈川県に引っ越した話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/hikkoshi/</link>
       <pubDate>Mon, 25 Mar 2019 03:09:12 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/hikkoshi/</guid>
-      <description>どうも，Santaです． 慶應義塾大学SFCの環境情報学部に合格し，入学することになったので，2019年の春から神奈川県藤沢市に引っ越すことに</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>2019年抱負の話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/2019_aspiration/</link>
       <pubDate>Tue, 01 Jan 2019 17:36:59 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/2019_aspiration/</guid>
-      <description>こんにちは，Santaです． 今回は，自分の2019年の抱負を語りたいと思います． ちなみに上の写真は志賀高原までスキーをしに行ったときに撮った</description>
+      <description></description>
+      
     </item>
     
     <item>
       <title>Windowsの環境構築の話</title>
       <link>https://santa-sukitoku.github.io/santa-log/posts/windows_development/</link>
       <pubDate>Tue, 20 Nov 2018 03:29:03 +0900</pubDate>
-      
+      <author></author>
       <guid>https://santa-sukitoku.github.io/santa-log/posts/windows_development/</guid>
-      <description>こんにちは，Santaです． 先日，大学合格祝いにRazer Blade 15を購入したので，自分がどのような環境構築をしたのか記したいと思います(Win</description>
+      <description></description>
+      
     </item>
     
   </channel>

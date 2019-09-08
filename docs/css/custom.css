@@ -1,0 +1,97 @@
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+    color: #021b4d;
+}
+
+.nav-item a, .nav-item h2, .nav-item h1{
+        padding-right: 1.5%;
+        padding-left: 1.5%;
+}
+
+.nav-item a:hover, .nav-item h2:hover, .nav-item h1:hover {
+        color: #ffffff;
+        padding-right: 1.5%;
+        padding-left: 1.5%;
+        background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+        background-size: 600% 600%;
+        animation: gradientBG 7.5s ease infinite;
+}
+
+a {
+  font-size: 100%;
+  background: 0 0;
+  color: #222222;
+  text-decoration: none;
+  -webkit-transition: none 86ms ease-out;
+  transition: none 86ms ease-out;
+}
+
+.title a {
+        padding-left: 0.25%;
+        padding-right: 0.25%;
+}
+
+.title a:hover {
+        padding-left: 0.25%;
+        padding-right: 0.25%;
+        color: #ffffff;
+        background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+        background-size: 600% 600%;
+        animation: gradientBG 7.5s ease infinite;
+}
+
+.subtitle.tags.is-6.is-pulled-right a:hover {
+        color: #ffffff;
+        background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+        background-size: 600% 600%;
+        animation: gradientBG 7.5s ease infinite;
+        text-decoration: none;
+}
+
+.nav-item.level.is-mobile a {
+        padding: 1%;
+}
+
+.nav-item.level.is-mobile a:hover {
+        padding: 1%;
+        color: #ffffff;
+        background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+        background-size: 600% 600%;
+        animation: gradientBG 7.5s ease infinite;
+}
+
+.button:hover {
+        color: #ffffff;
+        background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+        background-size: 600% 600%;
+        animation: gradientBG 7.5s ease infinite;
+}
+
+.button.is-link {
+        padding-left: 0.25%;
+        padding-right: 0.25%;
+        text-decoration: none;
+}
+
+.button.is-link:hover {
+        padding-left: 0.25%;
+        padding-right: 0.25%;
+        color: #ffffff;
+}
+
+
+@keyframes gradientBG {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}

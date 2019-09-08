@@ -1,71 +1,105 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="ja-JP">
 <head>
-	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Windowsの環境構築の話 - santa-log</title><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta property="og:title" content="Windowsの環境構築の話" />
-<meta property="og:description" content="こんにちは，Santaです． 先日，大学合格祝いにRazer Blade 15を購入したので，自分がどのような環境構築をしたのか記したいと思います(Win" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://santa-sukitoku.github.io/santa-log/posts/windows_development/" />
-<meta property="article:published_time" content="2018-11-20T03:29:03+09:00" />
-<meta property="article:modified_time" content="2018-11-20T03:29:03+09:00" />
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Windowsの環境構築の話"/>
-<meta name="twitter:description" content="こんにちは，Santaです． 先日，大学合格祝いにRazer Blade 15を購入したので，自分がどのような環境構築をしたのか記したいと思います(Win"/>
-<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:500,100,300"
-		rel="stylesheet">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-	<link rel="stylesheet" type="text/css" media="screen" href="https://santa-sukitoku.github.io/santa-log/css/normalize.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="https://santa-sukitoku.github.io/santa-log/css/main.css" /><script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script><script src="https://santa-sukitoku.github.io/santa-log/js/main.js"></script>
+<title>Windowsの環境構築の話 | santa-log</title>
 
+<meta property='og:title' content='Windowsの環境構築の話 - santa-log'>
+<meta property='og:description' content='こんにちは，Santaです． 先日，大学合格祝いにRazer Blade 15を購入したので，自分がどのような環境構築をしたのか記したいと思います(Win'>
+<meta property='og:url' content='https://santa-sukitoku.github.io/santa-log/posts/windows_development/'>
+<meta property='og:site_name' content='santa-log'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts'><meta property='article:tag' content='Development'><meta property='article:published_time' content='2018-11-20T03:29:03&#43;09:00'/><meta property='article:modified_time' content='2018-11-20T03:29:03&#43;09:00'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@santa_sukitoku'><meta name='twitter:creator' content='@santa_sukitoku'>
+
+
+<link rel="stylesheet" href="/santa-log/css/style.css"/><link rel='stylesheet' href='https://santa-sukitoku.github.io/santa-log/css/custom.css'><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="canonical" href="https://santa-sukitoku.github.io/santa-log/posts/windows_development/">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
 </head>
-
 <body>
-	<div class="container wrapper post">
-		<div class="header">
-	<h1 class="site-title">santa-log</h1>
-	<div class="site-description"><h2>Diary</h2><nav class="nav social">
-			<ul class="flat"><a href="https://twitter.com/santa_sukitoku" title="Twitter"><i data-feather="twitter"></i></a><a href="https://github.com/santa-sukitoku" title="Github"><i data-feather="github"></i></a><a href="https://soundcloud.com/santa-n" title="SoundCloud"><i data-feather="volume-2"></i></a></ul>
-		</nav>
-	</div>
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="https://santa-sukitoku.github.io/santa-log/">
+          <h1 class="title is-4">santa-log</h1>
+        </a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile"><a class="level-item" aria-label="twitter"
+            href='https://twitter.com/santa_sukitoku' target='_blank'
+            rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" aria-label="github"
+            href='https://github.com/santa-sukitoku' target='_blank'
+            rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" aria-label="instagram"
+            href='https://instagram.com/santa_sukitoku' target='_blank'
+            rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+    <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
+    <line x1="17.5" y1="6.5" x2="17.5" y2="6.5"/>
+    
+  </svg></i>
+            </span>
+          </a></nav>
+      </div>
+    </nav>
 
-	<nav class="nav">
-		<ul class="flat">
-			
-			<li>
-				<a href="https://santa-sukitoku.github.io/santa-log/">Home</a>
-			</li>
-			
-			<li>
-				<a href="https://santa-sukitoku.github.io/">About</a>
-			</li>
-			
-			<li>
-				<a href="https://santa-sukitoku.github.io/santa-portfolio/">Portfolio</a>
-			</li>
-			
-			<li>
-				<a href="https://santa-sukitoku.github.io/santa-log/posts">All posts</a>
-			</li>
-			
-			<li>
-				<a href="https://santa-sukitoku.github.io/santa-log/tags">Tags</a>
-			</li>
-			
-		</ul>
-	</nav>
-</div>
+    <nav class="nav">
+      
+      <div class="nav-left"><a class="nav-item" href="https://santa-sukitoku.github.io/">
+          <h2 class="title is-5">about</h2>
+        </a><a class="nav-item" href="https://santa-sukitoku.github.io/santa-portfolio">
+          <h2 class="title is-5">portfolio</h2>
+        </a></div>
+      
+
+      
+    </nav>
+
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="subtitle tags is-6 is-pulled-right">
+      
+      
+<a class="subtitle is-6" href="/santa-log/tags/development">#Development</a>
 
 
-		<div class="post-header">
-			<h1 class="title">Windowsの環境構築の話</h1>
-			<div class="meta">Posted at &mdash; Nov 20, 2018</div>
-		</div>
 
-		<div class="markdown">
-			
+      
+    </div>
+    <h2 class="subtitle is-6">November 20, 2018</h2>
+    <h1 class="title">Windowsの環境構築の話</h1>
+    
+    <div class="content">
+      
 
-<p>こんにちは，<a href="https://twitter.com/santa_sukitoku">Santa</a>です．</p>
+<p>こんにちは，<a href="https://twitter.com/santa_sukitoku" target="_blank">Santa</a>です．</p>
 
 <p>先日，大学合格祝いにRazer Blade 15を購入したので，自分がどのような環境構築をしたのか記したいと思います(Windowsの環境構築を忘れないうちにメモっておきたいだけ)．</p>
 
@@ -98,31 +132,31 @@
 
 <p>PythonやGLSL，Markdownなどを書くときはVisual Studio Codeを使用しています．また，TouchDesignerの外部エディタもVisual Studio Codeに設定しています．たまにVisual Studioも使ったり&hellip;)</p>
 
-<p>ちなみに，エディタでは<a href="https://github.com/miiton/Cica">Cica</a>というフォントを使っています．プログラミング向けの等幅日本語フォントで，個人的には読みやすいので気に入ってます．</p>
+<p>ちなみに，エディタでは<a href="https://github.com/miiton/Cica" target="_blank">Cica</a>というフォントを使っています．プログラミング向けの等幅日本語フォントで，個人的には読みやすいので気に入ってます．</p>
 
 <h4 id="sns関連">SNS関連</h4>
 
-<p>TweetdeckとSlack，Discordは<a href="https://getstation.com">Station</a>を使って統合させています．</p>
+<p>TweetdeckとSlack，Discordは<a href="https://getstation.com" target="_blank">Station</a>を使って統合させています．</p>
 
 <h4 id="シェル">シェル</h4>
 
 <p><a href="https://photos.google.com/share/AF1QipPClMHE1ep7OEEhUoJpW1MHEY6PiMB9OQ3MJHNSScZLV4itmVk8kOsPsi_QsVesuQ?key=UVk3MlRfQWtuNEdoRHZ5ZWxHTFZLNGpWRzJYbExB&amp;source=ctrlq.org"><img src="https://lh3.googleusercontent.com/uD67OMn0tOjmqlTwyvVtVgtYR3LnTBX1ZoDiz6J545xF3S3jJGeWv9f33NYH5N8kWr4sBlp8fYfSglI4PW6QhwEF1g3DOAaIY1kTkD2fmGZyY4Ai5ub8I4wONypcmgs1CKy89JAjJA=w2400"></a></p>
 
-<p>Windowsで<a href="http://cmder.net">Cmder</a> + bashを使ってます．</p>
+<p>Windowsで<a href="http://cmder.net" target="_blank">Cmder</a> + bashを使ってます．</p>
 
 <h4 id="キーバインド">キーバインド</h4>
 
 <p>Razer Synapseで内蔵キーボード，Havitのツールで外付けキーボードのCtrlとAltを入れ替えました．Macでよく使う⌘キーに近いwindowsのキーがCtrlなので，Macの⌘キーの位置にCtrlを置くことでショートカットキーが打ちやすくなりました．また，caps lockはMacでCtrlとして使っていたのでRazer Blade 15でも同じように設定しました．</p>
 
-<p>キーバインドは，<a href="https://www.autohotkey.com">AutoHotKey</a>を使ってCtrlキーの空打ちでIMEのon/offを切り替えるようにしました．Macの英数/かなのように使えて超快適になりました．</p>
+<p>キーバインドは，<a href="https://www.autohotkey.com" target="_blank">AutoHotKey</a>を使ってCtrlキーの空打ちでIMEのon/offを切り替えるようにしました．Macの英数/かなのように使えて超快適になりました．</p>
 
 <p>下のGitHubページからAltキーの空打ちでIMEのon/offを切り替えるソースコードをダウンロードして，ソースコードのAltをCtrlに書き換えて使用しています．</p>
 
-<p><a href="https://github.com/karakaram/alt-ime-ahk">https://github.com/karakaram/alt-ime-ahk</a></p>
+<p><a href="https://github.com/karakaram/alt-ime-ahk" target="_blank">https://github.com/karakaram/alt-ime-ahk</a></p>
 
 <h4 id="ランチャー">ランチャー</h4>
 
-<p>ランチャーは<a href="http://keypirinha.com">Keypirinha</a>を使っています．デザインがAlfredに近いので使うことにしました．</p>
+<p>ランチャーは<a href="http://keypirinha.com" target="_blank">Keypirinha</a>を使っています．デザインがAlfredに近いので使うことにしました．</p>
 
 <p>Macでは⌘ + SpaceでSpotlightを起動していたので，Razer Blade 15ではCtrl + SpaceでKeypirinhaを起動するように設定しました．</p>
 
@@ -136,15 +170,28 @@
 
 <p>他にもWindowsの環境構築でおすすめのtipsがあったらおしえてください&hellip;!</p>
 
-		</div></div>
-	<div class="footer wrapper">
-	<nav class="nav">
-		<div><a href="https://github.com/vividvilla/ezhil">Ezhil theme</a> | Built with <a
-				href="gohugo.io">Hugo</a></div>
-	</nav>
+      
+      <div class="related">
 </div>
+      
+    </div>
+    
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p>&copy; <a href="https://github.com/ribice">Emir Ribic</a> 2017</p>
+    
+      <p>Powered by <a href="https://gohugo.io/">Hugo</a> &amp; <a href="https://github.com/ribice/kiss">Kiss</a>.</p>
+    
+  </div>
+</section>
+
 
 
 </body>
-
 </html>
+

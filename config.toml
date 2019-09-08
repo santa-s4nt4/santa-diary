@@ -1,70 +1,43 @@
 baseURL = "https://santa-sukitoku.github.io/santa-log/"
 title = "santa-log"
 author = "santa_sukitoku"
-theme = "ezhil"
-canonifyurls = true
-paginate = 3
+theme = "kiss"
 publishDir = "docs"
 hasCJKLanguage = true
 DefaultContentLanguage = "ja"
 languageCode = "ja-JP"
+copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
+Paginate = 10 # Number of posts per page
+enableRobotsTXT = true
 
-pygmentsstyle = "vs"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+[params.assets]
+customCSS = ["css/custom.css"]
 
-googleAnalytics = "UA-123-45"
-disqusShortname = "localhost"
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = true # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
 
-[params]
-	subtitle = "Diary"
-	# Number of posts to show in recent posts list.
-	recentPostsCount = 10
-	# Content types which are excluded from recent posts and archive page.
-	excludedTypes = ["page"]
-	disableDisqusTypes = ["page"]
-	featherIconsCDN = true
+[params.features]
+disqusOnDemand = true  # Load Disqus comments on click
 
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+[params.social]
+twitter = "santa_sukitoku"
+github = "santa-sukitoku"
+instagram = "santa_sukitoku"
 
-[[menu.main]]
-name = "About"
-url = "https://santa-sukitoku.github.io/"
-weight = 2
+[params.social.config]
+platforms = ["twitter","github","instagram"]
 
-[[menu.main]]
-name = "Portfolio"
-url = "https://santa-sukitoku.github.io/santa-portfolio/"
-weight = 3
-
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 4
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 5
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/santa_sukitoku"
-
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/santa-sukitoku"
-
-[[params.social]]
-name = "SoundCloud"
-icon = "volume-2"
-url = "https://soundcloud.com/santa-n"
+[params.sections_left]
+"https://santa-sukitoku.github.io/" = "about"
+"https://santa-sukitoku.github.io/santa-portfolio" = "portfolio"
 
 [taxonomies]
-   tag = "tags"
+tag ="tags"
 
+[blackfriday]
+hrefTargetBlank = true
