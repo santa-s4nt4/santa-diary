@@ -83,6 +83,24 @@ a {
         color: #ffffff;
 }
 
+.content a {
+        color: #5c5c5c;
+        text-decoration: none;
+        border-bottom: 1px solid #5c5c5c;
+}
+
+.content a:not(.button):visited {
+    color: #5c5c5c;
+}
+
+.content a:not(.button):hover {
+        color: #ffffff;
+        background: linear-gradient(-90deg, #e73c7e, #0e5aff,#23a6d5, #23d5ab);
+        background-size: 600% 600%;
+        animation: gradientBG 7.5s ease infinite;
+        text-decoration: none;
+        border-bottom: 0px;
+}
 
 @keyframes gradientBG {
 	0% {
