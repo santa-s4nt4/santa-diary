@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Mon, 03 Jun 2019 20:57:14 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2019 04:32:20 +0900</lastBuildDate>
     
 	<atom:link href="https://santa-sukitoku.github.io/santa-diary/tags/art/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gradation</title>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/190909_g/</link>
+      <pubDate>Mon, 09 Sep 2019 04:32:20 +0900</pubDate>
+      
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/190909_g/</guid>
+      <description>最近，静的webサイトやブログを制作しているときにhoverエフェクトを考えているんだけど，今のマイブームは&amp;rdquo;Gradation</description>
+    </item>
     
     <item>
       <title>Source Cord Vol.3でVJをした話</title>
