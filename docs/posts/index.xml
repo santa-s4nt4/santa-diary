@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Sun, 29 Sep 2019 02:20:36 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 15:02:59 +0900</lastBuildDate>
     
 	<atom:link href="https://santa-sukitoku.github.io/santa-diary/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>深夜徘徊</title>
+      <link>https://santa-sukitoku.github.io/santa-diary/posts/191014/</link>
+      <pubDate>Mon, 14 Oct 2019 15:02:59 +0900</pubDate>
+      
+      <guid>https://santa-sukitoku.github.io/santa-diary/posts/191014/</guid>
+      <description>大学に入学してから免許を取得して，せっかくなので友達と車で深夜徘徊をすることにした． 何処へ行ったのか 川崎コンビナート見に行った． 工場夜景，や</description>
+    </item>
     
     <item>
       <title>TouchDesignerでMovie File InのPathを監視する</title>
