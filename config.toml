@@ -33,8 +33,8 @@ instagram = "santa_sukitoku"
 platforms = ["twitter","github","instagram"]
 
 [params.sections_left]
-"https://santa-sukitoku.github.io/" = "about"
-"https://santa-sukitoku.github.io/santa-portfolio" = "portfolio"
+"https://santa-sukitoku.github.io/about.html" = "about"
+"https://santa-sukitoku.github.io/portfolio.html" = "portfolio"
 
 [taxonomies]
 tag ="tags"
